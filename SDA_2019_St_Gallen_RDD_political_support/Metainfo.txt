@@ -11,8 +11,8 @@ Author: 'Filip Waldemar Mellgren, filip.mellgren@gmail.com.'
 
 Submitted:   '25 November 2019, Filip Mellgren'
 
-Datafile: 'optional: for your data sets - delete if not used'
+Datafile: 'chic_aug_07.csv, mccrary.dta, reg_panes.dta'
 
 Input: 'Survey information on voting intention, eligibility of a government program and more'
 
-Output:  'main.html'
+Output:  'SDA_2019_St_Gallen_RDD_political_support.html'
